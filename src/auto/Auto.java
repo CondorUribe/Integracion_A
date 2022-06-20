@@ -4,7 +4,7 @@ package auto;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-
+//Hola como estan
 /**
  *
  * @author USUARIO
@@ -27,7 +27,7 @@ public class Auto {
 
         driver.findElement(By.linkText("Register")).click();
         Thread.sleep(2000);
-        driver.findElement(By.name("username")).sendKeys("Juan158792");
+        driver.findElement(By.name("username")).sendKeys("Juan25");
         Thread.sleep(2000);
         driver.findElement(By.name("firstName")).sendKeys("Raul");
         Thread.sleep(2000);
