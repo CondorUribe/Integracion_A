@@ -4,7 +4,7 @@ package auto;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-//Hola Kathy y Lobo
+//Hola 
 /**
  *
  * @author USUARIO
