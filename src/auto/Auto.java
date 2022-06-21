@@ -54,10 +54,7 @@ public class Auto {
 //        driver.findElement(By.name("customer_lastname")).sendKeys("Juan");
        
 
-//        driver.findElement(By.id("sign-username")).sendKeys("Raul123456");
-//        driver.findElement(By.id("sign-password")).sendKeys("JuanRaul123456");
-//        driver.findElement(By.className("btn btn-secondary")).click();
-//        
+     
         
         
 
