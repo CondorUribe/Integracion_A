@@ -4,7 +4,7 @@ package auto;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-//Hola Antonio
+//Hola 
 /**
  *
  * @author USUARIO
@@ -60,22 +60,7 @@ public class Auto {
 //        
         
         
-        
-        
-        
-        
-// ----------------------------------------------------------------------       
-//        
-//        driver.navigate().to("https://buggy.justtestit.org/");
-//        driver.findElement(By.linkText("Register")).click();
-//        driver.findElement(By.name("username")).sendKeys("Juan130");
-//        driver.findElement(By.name("firstName")).sendKeys("Raul");
-//        driver.findElement(By.name("lastName")).sendKeys("David");
-//        driver.findElement(By.id("password")).sendKeys("Juan12345@");
-//       
-//        driver.findElement(By.id("confirmPassword")).sendKeys("Juan12345@");
-//        driver.findElement(By.id("Register")).click();
-//        driver.findElement(By.name("submit")).click();
+
 
 
     }
