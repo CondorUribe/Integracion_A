@@ -4,7 +4,7 @@ package auto;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-//Hola como estan si funciona
+//Hola como estan si funciona hay que cambiar de nuevo
 /**
  *
  * @author USUARIO
@@ -77,16 +77,7 @@ public class Auto {
 //        driver.findElement(By.id("Register")).click();
 //        driver.findElement(By.name("submit")).click();
 
-//---------------------------------------------------
-//        driver.navigate().to("https://www.saucedemo.com");Swag Labs
-//        driver.findElement(By.name("user-name")).sendKeys("standard_user");
-//        driver.findElement(By.name("password")).sendKeys("secret_sauce");
-//        driver.findElement(By.name("login-button")).click();
-//        driver.findElement(By.className("inventory_item_name")).click();
-//        driver.findElement(By.name("back-to-products")).click();
-//        driver.findElement(By.id("react-burger-menu-btn")).click();
-//        driver.findElement(By.className("bm-item menu-item")).click();
-// ------------------------------------------------  
+
     }
     
 }
